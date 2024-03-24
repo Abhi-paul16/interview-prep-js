@@ -1,4 +1,8 @@
 JS FUNDAMENTALS AND ADVANCE
 
 1. Stack and Head Memory
-2.
+2. Let,var and const
+3. Scopes in JS
+4. THIS keyword in JS
+5. DOM & DOM Manipulation
+6. 

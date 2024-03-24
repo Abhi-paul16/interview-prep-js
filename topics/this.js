@@ -18,7 +18,7 @@ const user = {
 
 // function chai(){
 // let user= "ap"
-//     console.log(this.ap);
+//     console.log(this);
 // }
 // chai()
 
@@ -35,3 +35,8 @@ const user = {
 // };
 
 // chai()
+
+console.log(this);
+// THIS : this keyword in js refers to the current excution context. it is a special variable that changes their
+// value depending on how or where it is invoked.
+
