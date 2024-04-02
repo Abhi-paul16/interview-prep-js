@@ -36,7 +36,7 @@ const user = {
 
 // chai()
 
-console.log(this);
+// console.log(this);
 // THIS : this keyword in js refers to the current excution context. it is a special variable that changes their
 // value depending on how or where it is invoked.
 
