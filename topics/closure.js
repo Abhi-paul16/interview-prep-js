@@ -27,5 +27,5 @@ function outer (){
 
 
  let output = outer();
-
+console.log(output)
  output();
